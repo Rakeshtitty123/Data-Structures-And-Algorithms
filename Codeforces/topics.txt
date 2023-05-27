@@ -1,0 +1,82 @@
+Prime numbers
+    Sieve of Eratosthenes
+    Linear Sieve
+Number-theoretic functions
+    Euler's totient function
+    Number of divisors / sum of divisors
+Data Structures Fundamentals
+    Minimum Stack / Minimum Queue
+    Sparse Table
+Trees
+    Disjoint Set Union
+    Fenwick Tree
+    Sqrt Decomposition
+    Segment Tree
+    Treap
+    Sqrt Tree
+    Randomized Heap
+DP optimizations
+    Divide and Conquer DP
+    Knuth's Optimization
+String Processing
+    Fundamentals
+        String Hashing
+        Rabin-Karp for String Matching
+        Prefix function - Knuth-Morris-Pratt
+        Z-function
+        Suffix Array
+        Aho-Corasick algorithm
+    Advanced
+        Suffix Tree
+        Suffix Automaton
+        Lyndon factorization
+Combinatorics
+    Fundamentals
+        Finding Power of Factorial Divisor
+        Binomial Coefficients
+        Catalan Numbers
+Connected components, bridges, articulations points
+    Finding Connected Components
+    Finding Bridges in O(N+M)
+    Finding Bridges Online
+    Finding Articulation Points in O(N+M)
+    Strongly Connected Components and Condensation Graph
+    Strong Orientation
+Single-source shortest paths
+    Dijkstra - finding shortest paths from given vertex
+    Dijkstra on sparse graphs
+    Bellman-Ford - finding shortest paths with negative weights
+    0-1 BFS
+    D´Esopo-Pape algorithm
+All-pairs shortest paths
+    Floyd-Warshall - finding all shortest paths
+    Number of paths of fixed length / Shortest paths of fixed length
+Spanning trees
+    Minimum Spanning Tree - Prim's Algorithm
+    Minimum Spanning Tree - Kruskal
+    Minimum Spanning Tree - Kruskal with Disjoint Set Union
+    Second best Minimum Spanning Tree - Using Kruskal and Lowest Common Ancestor
+    Kirchhoff Theorem
+    Prüfer code
+Cycles
+    Checking a graph for acyclicity and finding a cycle in O(M)
+    Finding a Negative Cycle in the Graph
+Eulerian Path
+    Lowest common ancestor
+    Lowest Common Ancestor
+    Lowest Common Ancestor - Binary Lifting
+    Lowest Common Ancestor - Farach-Colton and Bender algorithm
+    Solve RMQ by finding LCA
+    Lowest Common Ancestor - Tarjan's off-line algorithm
+Matchings and related problems
+    Bipartite Graph Check
+    Kuhn's Algorithm - Maximum Bipartite Matching
+Miscellaneous
+    Topological Sorting
+    Edge connectivity / Vertex connectivity
+    Tree painting
+    2-SAT
+    Heavy-light decomposition
+Game Theory
+    Games on arbitrary graphs
+    Sprague-Grundy theorem. Nim

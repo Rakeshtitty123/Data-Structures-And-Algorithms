@@ -1,0 +1,63 @@
+{
+	// Place your CC Problems workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	
+		"include header": {
+		  "prefix": ["#include", "for-const"],
+		  "body": [
+			"#include<bits/stdC++.h>",
+			"using namespace std;",
+			"#define ll long long int",
+			"#define vi vector<int>",
+			"#define vil vector<ll>",
+			"#define vc vector<char>",
+			"#define vf vector<float>",
+			"#define vul vector<ull>",
+			"#define fl(i,n) for(int i=0;i<n;i++);",
+			"#define pb push_back",
+			"#define vii vector<vector<int>>",
+			"#define sti stack<int>",
+			"#define stc stack<char>",
+			"#define spii stack<pair<int,int>>",
+			"#define spic stack<pair<int,char>>",
+			"#define spcc stack<pair<char,char>>",
+			"#define uint_64t unsigned ll",
+			"#define int_64t  ll",
+			"#define ull unsigned long long int",
+			"#define ld long double",
+			"#define P2(n) n, n ^ 1, n ^ 1, n",
+			"#define P4(n) P2(n),P2(n^1),P2(n^1),P2(n)",
+			"#define P6(n) P4(n),P4(n^1),P4(n^1),P4(n)",
+			"#define Look_Up P6(0),P6(1),P6(0),P6(1)",
+			"#define phi 1.6180339887498948",
+			"#define N 6",
+			"#define Maxx 10000",
+		    "int main()",
+            "{",
+                "    ios_base::sync_with_stdio(false);",
+                "    cin.tie(NULL);",
+                "    cout.tie(NULL);",
+		        "    #ifndef ONLINE_JUDGE",
+	            "    #endif",
+		        "    return 0;",
+	       "}"
+
+		],
+		  "description": "A for loop."
+		}
+	  
+}

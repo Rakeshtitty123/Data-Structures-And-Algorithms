@@ -1,0 +1,13 @@
+{
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "iostream": "cpp",
+    "chrono": "cpp",
+    "bitset": "cpp",
+    "tuple": "cpp"
+  }
+}
